@@ -5,11 +5,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 @RequestMapping("/home")
-public class HelloWorld {
+public class UserName {
 
-    @RequestMapping("/index")
+    @RequestMapping("/username")
     public String getUserName() {
-        return "index";
+        return "username";
     }
 
     public static void main (String[] args) {
