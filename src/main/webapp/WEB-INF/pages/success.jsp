@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>Richy Yin</title>
+    <title>登录成功</title>
   </head>
   <body>
-    <label>HHHHHHHH</label>
+    <label>Welcome RichyYin</label>
   </body>
 </html>
